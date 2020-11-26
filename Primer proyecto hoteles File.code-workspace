@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\cunter-app"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "primer-proyecto-hoteles"
+	}
+}
